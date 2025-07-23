@@ -104,15 +104,6 @@ Sales data was obtained from a central transaction database of the company repre
 
 ### Data Pre-processing
 **Data Loading**: 
-Reading the Raw Dataset which originally existed as a CSV file into a Pandas Dataframe
-
-__Task:__ Follow the appropriate steps in reading a CSV file into a pandas Dataframe, 
-
-
-and  Read the data stored  in the csv file named:  `bikes` From your computer.
-
-
-The resulting Dataframe should be named : `bikes_df`
 
 ```python
 # solution
